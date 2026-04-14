@@ -65,6 +65,7 @@ const Hero = () => {
       );
 
     // video animation
+    // ensure mobile responsiveness
     const startValue = isMobile ? "top 50%" : "center 60%";
     const endValue = isMobile ? "120% top" : "bottom top";
 
@@ -78,6 +79,7 @@ const Hero = () => {
       },
     });
 
+    // set the final state (gsap.to()) to the end of the video (duration)
     videoRef.current.onloadedmetadata = () => {
       tl.to(videoRef.current, {
         currentTime: videoRef.current.duration,
@@ -125,7 +127,7 @@ const Hero = () => {
       <div className="video absolute inset-0">
         <video
           ref={videoRef}
-          src="/videos/output.mp4"
+          src="/videos/output.mp4" // use the converted video for smoother animation (every frame is a keyframe)
           muted
           playsInline
           preload="auto"
