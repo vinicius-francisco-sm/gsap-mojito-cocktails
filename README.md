@@ -1,16 +1,35 @@
-# React + Vite
+# 🎨 Frontend Portfolio React Landing Page - Mojito Cocktails 🧠
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📝 Implementation in React, Tailwind and GSAP, using Vite of a Landing Page for a fictional bar named Velvet Pour
 
-Currently, two official plugins are available:
+This is an implementation of the Mojito Cocktails Landing Page design made by [Adrian Hajdin](https://github.com/adrianhajdin/gsap_cocktails). This implementation was made by me for portfolio reasons. I don't own nor clame any rights over the design idea.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ⚙ Stack
 
-## React Compiler
+![Tech Stack](https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,gsap,vite&theme=dark)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![hero showcase image](hero-showcase.png)
+![the art showcase image](art-showcase.png)
+![features showcase image](menu-showcase.png)
 
-## Expanding the ESLint configuration
+## 🧪 Test it out
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Use the following link to github pages: [Mojito Cocktails]()
+
+## 👨‍💻 Run the project at your own environment
+
+To run the project at your own environment
+
+1. Install [Node and npm](https://nodejs.org/en/download)
+2. Clone or download the files from this repository
+3. Run `npm install` on the terminal
+4. Then run `npm run dev`
+5. Open the project through the generated link
+
+## 📢 Any suggestions?
+
+If you have any ideas or bugs o report, feel free to submit an issue on the issues tab up above!
+
+## ✅❎ Work in progress
+
+- [ ] Fix navigation link to "The Art"
