@@ -1,4 +1,4 @@
-# 🎨 Frontend Portfolio React Landing Page - Mojito Cocktails 🧠
+# 🎨 Frontend Portfolio React Landing Page - Mojito Cocktails 🍹
 
 ## 📝 Implementation in React, Tailwind and GSAP, using Vite of a Landing Page for a fictional bar named Velvet Pour
 
