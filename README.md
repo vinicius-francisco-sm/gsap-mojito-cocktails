@@ -14,7 +14,7 @@ This is an implementation of the Mojito Cocktails Landing Page design made by [A
 
 ## 🧪 Test it out
 
-Use the following link to github pages: [Mojito Cocktails]()
+Use the following link to github pages: [Mojito Cocktails](https://vinicius-francisco-sm.github.io/gsap-mojito-cocktails/)
 
 ## 👨‍💻 Run the project at your own environment
 
